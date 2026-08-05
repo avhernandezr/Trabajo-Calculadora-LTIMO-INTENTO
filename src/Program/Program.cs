@@ -8,11 +8,13 @@
         Console.WriteLine(Division.Divide(7, 8));
     }
 }
-public class Multiplication
+public class Addition
 {
-   public static int Multiply(int a, int b)
+   public static int Add(int a, int b)
    {
-       return a + b;}}
+       return a + b;
+   }
+}
 public class Division
 {
    public static double Divide(int a, int b)
