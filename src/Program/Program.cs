@@ -29,3 +29,10 @@ public class Division
        return (double)a / b;
    }
 }
+public class Subtraction
+{
+   public static int Subtract(int a, int b)
+   {
+       return a - b;
+   }
+}
